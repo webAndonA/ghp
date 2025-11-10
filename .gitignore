@@ -1,0 +1,8 @@
+# help .gitignore: https://help.github.com/articles/ignoring-files
+node_modules/
+0/
+.github
+
+# Editor/IDE
+.vscode/
+.idea/
